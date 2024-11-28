@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelReservation.UI.WebApp", "HotelReservation.UI.WebApp\HotelReservation.UI.WebApp.csproj", "{A717D2B8-380A-45FC-B70B-6FD0B4B0FC70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelReservation.Persistence", "HotelReservation.Persistence\HotelReservation.Persistence.csproj", "{6906C53C-2C97-4097-BB89-3B92541202F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelReservation.Model", "HotelReservation.Model\HotelReservation.Model.csproj", "{C98DBD07-462F-4850-8017-4A0F4E84FBD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A717D2B8-380A-45FC-B70B-6FD0B4B0FC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A717D2B8-380A-45FC-B70B-6FD0B4B0FC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A717D2B8-380A-45FC-B70B-6FD0B4B0FC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A717D2B8-380A-45FC-B70B-6FD0B4B0FC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6906C53C-2C97-4097-BB89-3B92541202F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6906C53C-2C97-4097-BB89-3B92541202F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6906C53C-2C97-4097-BB89-3B92541202F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6906C53C-2C97-4097-BB89-3B92541202F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98DBD07-462F-4850-8017-4A0F4E84FBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98DBD07-462F-4850-8017-4A0F4E84FBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98DBD07-462F-4850-8017-4A0F4E84FBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98DBD07-462F-4850-8017-4A0F4E84FBD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

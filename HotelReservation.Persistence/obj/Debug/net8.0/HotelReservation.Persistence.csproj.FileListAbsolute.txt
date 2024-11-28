@@ -1,0 +1,17 @@
+D:\SistemaHotel\Back\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Persistence.deps.json
+D:\SistemaHotel\Back\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Persistence.runtimeconfig.json
+D:\SistemaHotel\Back\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Persistence.dll
+D:\SistemaHotel\Back\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Persistence.pdb
+D:\SistemaHotel\Back\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Model.dll
+D:\SistemaHotel\Back\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Model.pdb
+D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.csproj.AssemblyReference.cache
+D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.AssemblyInfoInputs.cache
+D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.AssemblyInfo.cs
+D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.csproj.CoreCompileInputs.cache
+D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelRes.E75CBE4F.Up2Date
+D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.dll
+D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\refint\HotelReservation.Persistence.dll
+D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.pdb
+D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.genruntimeconfig.cache
+D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\ref\HotelReservation.Persistence.dll

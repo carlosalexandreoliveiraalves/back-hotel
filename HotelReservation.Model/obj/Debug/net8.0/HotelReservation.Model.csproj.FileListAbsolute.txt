@@ -1,0 +1,11 @@
+D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.AssemblyInfoInputs.cache
+D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.AssemblyInfo.cs
+D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.csproj.CoreCompileInputs.cache
+D:\SistemaHotel\Back\HotelReservation.Model\bin\Debug\net8.0\HotelReservation.Model.deps.json
+D:\SistemaHotel\Back\HotelReservation.Model\bin\Debug\net8.0\HotelReservation.Model.dll
+D:\SistemaHotel\Back\HotelReservation.Model\bin\Debug\net8.0\HotelReservation.Model.pdb
+D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.dll
+D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\refint\HotelReservation.Model.dll
+D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.pdb
+D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\ref\HotelReservation.Model.dll
