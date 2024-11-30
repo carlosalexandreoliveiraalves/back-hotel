@@ -3643,8 +3643,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj": {
-              "projectPath": "D:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj"
+            "d:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj": {
+              "projectPath": "d:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj"
             }
           }
         }

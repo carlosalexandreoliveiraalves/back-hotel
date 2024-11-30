@@ -1,7 +1,9 @@
 using System;
+using System.Text.Json.Serialization;
 using HotelReservation.Model.Enums;
 
 namespace HotelReservation.Model.Rooms;
+
 
 public abstract class Quarto
 {
@@ -11,6 +13,12 @@ public abstract class Quarto
     public bool Disponivel { get; set; }
     public TipoQuarto Tipo { get; set; }
 
+
+    public Quarto()
+    {
+        
+    }
+
     public Quarto(int id, string? numero, decimal? precoPorNoite, bool disponivel, TipoQuarto tipo)
     {
         Id = id;
@@ -18,11 +26,6 @@ public abstract class Quarto
         PrecoPorNoite = precoPorNoite;
         Disponivel = disponivel;
         Tipo = tipo;
-    }
-
-    public Quarto()
-    {
-        
     }
 
 

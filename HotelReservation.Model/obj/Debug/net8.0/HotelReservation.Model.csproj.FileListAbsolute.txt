@@ -9,3 +9,4 @@ D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Mo
 D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\refint\HotelReservation.Model.dll
 D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.pdb
 D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\ref\HotelReservation.Model.dll
+D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.sourcelink.json

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oKSW1uL+jY8=",
+  "dgSpecHash": "LONiJxncVyU=",
   "success": true,
-  "projectFilePath": "D:\\SistemaHotel\\Back\\HotelReservation.UI.WebApp\\HotelReservation.UI.WebApp.csproj",
+  "projectFilePath": "d:\\SistemaHotel\\Back\\HotelReservation.UI.WebApp\\HotelReservation.UI.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Alexandre\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Carlos Alexandre\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

@@ -9,8 +9,5 @@ public class QuartoSimples : Quarto
     {
     }
 
-    public QuartoSimples()
-    {
-        
-    }
+
 }

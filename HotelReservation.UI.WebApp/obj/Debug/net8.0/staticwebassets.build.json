@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7pgBtWU1dRB5U0gQ6POgya2X37XYwsp6wRXruDKCaYU=",
+  "Source": "HotelReservation.UI.WebApp",
+  "BasePath": "_content/HotelReservation.UI.WebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

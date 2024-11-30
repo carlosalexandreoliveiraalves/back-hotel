@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj": {}
+    "d:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj": {}
   },
   "projects": {
-    "D:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj": {
+    "d:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj",
+        "projectUniqueName": "d:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj",
         "projectName": "HotelReservation.Model",
-        "projectPath": "D:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj",
+        "projectPath": "d:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj",
         "packagesPath": "C:\\Users\\Carlos Alexandre\\.nuget\\packages\\",
-        "outputPath": "D:\\SistemaHotel\\Back\\HotelReservation.Model\\obj\\",
+        "outputPath": "d:\\SistemaHotel\\Back\\HotelReservation.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carlos Alexandre\\AppData\\Roaming\\NuGet\\NuGet.Config"

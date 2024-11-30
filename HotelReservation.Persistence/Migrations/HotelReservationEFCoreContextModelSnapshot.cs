@@ -38,7 +38,7 @@ namespace HotelReservation.Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("tb_faturamento");
+                    b.ToTable("RelatorioFaturamento");
                 });
 
             modelBuilder.Entity("HotelReservation.Model.Reports.RelatorioOcupacao", b =>
@@ -54,7 +54,7 @@ namespace HotelReservation.Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("tb_ocupacao");
+                    b.ToTable("RelatorioOcupacao");
                 });
 
             modelBuilder.Entity("HotelReservation.Model.Reservations.Reserva", b =>
@@ -76,7 +76,7 @@ namespace HotelReservation.Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("tb_reserva");
+                    b.ToTable("Reserva");
                 });
 
             modelBuilder.Entity("HotelReservation.Model.Rooms.Quarto", b =>
@@ -86,11 +86,6 @@ namespace HotelReservation.Persistence.Migrations
                         .HasColumnType("int");
 
                     MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Discriminator")
-                        .IsRequired()
-                        .HasMaxLength(13)
-                        .HasColumnType("varchar(13)");
 
                     b.Property<bool>("Disponivel")
                         .HasColumnType("tinyint(1)");
@@ -106,9 +101,9 @@ namespace HotelReservation.Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("tb_quarto");
+                    b.ToTable("Quarto");
 
-                    b.HasDiscriminator<string>("Discriminator").HasValue("Quarto");
+                    b.HasDiscriminator<int>("Tipo");
 
                     b.UseTphMappingStrategy();
                 });
@@ -117,14 +112,20 @@ namespace HotelReservation.Persistence.Migrations
                 {
                     b.HasBaseType("HotelReservation.Model.Rooms.Quarto");
 
-                    b.HasDiscriminator().HasValue("QuartoLuxo");
+                    b.Property<bool>("TemVistaParaOMar")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("tinyint(1)")
+                        .HasDefaultValue(true)
+                        .HasColumnName("Vista");
+
+                    b.HasDiscriminator().HasValue(1);
                 });
 
             modelBuilder.Entity("HotelReservation.Model.Rooms.QuartoSimples", b =>
                 {
                     b.HasBaseType("HotelReservation.Model.Rooms.Quarto");
 
-                    b.HasDiscriminator().HasValue("QuartoSimples");
+                    b.HasDiscriminator().HasValue(0);
                 });
 
             modelBuilder.Entity("HotelReservation.Model.Rooms.Suite", b =>
@@ -132,9 +133,10 @@ namespace HotelReservation.Persistence.Migrations
                     b.HasBaseType("HotelReservation.Model.Rooms.Quarto");
 
                     b.Property<int>("Capacidade")
-                        .HasColumnType("int");
+                        .HasColumnType("int")
+                        .HasColumnName("Capacidade");
 
-                    b.HasDiscriminator().HasValue("Suite");
+                    b.HasDiscriminator().HasValue(2);
                 });
 #pragma warning restore 612, 618
         }

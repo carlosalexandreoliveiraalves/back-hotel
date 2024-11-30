@@ -15,3 +15,4 @@ D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\refint\HotelR
 D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.pdb
 D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.genruntimeconfig.cache
 D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\ref\HotelReservation.Persistence.dll
+D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.sourcelink.json

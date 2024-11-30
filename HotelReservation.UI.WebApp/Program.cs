@@ -11,11 +11,14 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<HotelReservationEFCoreContext>(options =>
     options.UseMySql(
         builder.Configuration.GetConnectionString("HotelReservationDatabase"),
-        new MySqlServerVersion(new Version(8, 0)) // Substitua pela versão do seu MySQL
+        new MySqlServerVersion(new Version(8, 0)) 
     )
 );
 
+builder.Services.AddControllers();
+
 var app = builder.Build();
+app.UseRouting();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -24,6 +27,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseEndpoints(endpoints => { 
+    endpoints.MapControllers(); 
+});
+
 app.UseHttpsRedirection();
+
 
 app.Run();
