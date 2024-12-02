@@ -91,9 +91,11 @@ namespace HotelReservation.Persistence.Migrations
                         .HasColumnType("tinyint(1)");
 
                     b.Property<string>("Numero")
+                        .IsRequired()
                         .HasColumnType("longtext");
 
                     b.Property<decimal?>("PrecoPorNoite")
+                        .IsRequired()
                         .HasColumnType("decimal(65,30)");
 
                     b.Property<int>("Tipo")
@@ -101,7 +103,7 @@ namespace HotelReservation.Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Quarto");
+                    b.ToTable("Quarto", (string)null);
 
                     b.HasDiscriminator<int>("Tipo");
 
@@ -112,11 +114,8 @@ namespace HotelReservation.Persistence.Migrations
                 {
                     b.HasBaseType("HotelReservation.Model.Rooms.Quarto");
 
-                    b.Property<bool>("TemVistaParaOMar")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("tinyint(1)")
-                        .HasDefaultValue(true)
-                        .HasColumnName("Vista");
+                    b.Property<bool?>("TemVistaParaOMar")
+                        .HasColumnType("tinyint(1)");
 
                     b.HasDiscriminator().HasValue(1);
                 });
@@ -133,8 +132,7 @@ namespace HotelReservation.Persistence.Migrations
                     b.HasBaseType("HotelReservation.Model.Rooms.Quarto");
 
                     b.Property<int>("Capacidade")
-                        .HasColumnType("int")
-                        .HasColumnName("Capacidade");
+                        .HasColumnType("int");
 
                     b.HasDiscriminator().HasValue(2);
                 });
