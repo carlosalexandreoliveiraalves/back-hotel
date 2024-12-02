@@ -30,6 +30,7 @@ builder.Services.AddCors(options =>
                       });
 });
 
+
 builder.Services.AddControllers();
 
 var app = builder.Build();
@@ -39,7 +40,7 @@ app.UseRouting();
 
 app.UseCors(MyAllowSpecificOrigins);
 
-// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline. Sempre
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
