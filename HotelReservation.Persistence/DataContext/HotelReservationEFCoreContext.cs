@@ -26,9 +26,10 @@ public class HotelReservationEFCoreContext : DbContext
         new MySqlServerVersion(new Version(8, 0)) 
     );
 
-
-
     public DbSet<Quarto> Quarto {get; set;}
+    public DbSet<QuartoLuxo> QuartoLuxo {get; set;}
+    public DbSet<Suite> Suite {get; set;}
+    public DbSet<QuartoSimples> QuartoSimples {get; set;}
     public DbSet<Reserva> Reserva { get; set; }
     public DbSet<RelatorioFaturamento> RelatorioFaturamento {get; set;}
     public DbSet<RelatorioOcupacao> RelatorioOcupacao {get; set;}
@@ -37,30 +38,10 @@ public class HotelReservationEFCoreContext : DbContext
     {
         base.OnModelCreating(modelBuilder);
         modelBuilder
-        .Entity<Quarto>(
-            eb =>
-            {
-                eb.HasKey(pk => pk.Id);
-
-                eb.HasDiscriminator<TipoQuarto>(b => b.Tipo)
+        .Entity<Quarto>().ToTable("Quarto").HasDiscriminator<TipoQuarto>("Tipo")
                 .HasValue<QuartoSimples>(TipoQuarto.Simples)
                 .HasValue<Suite>(TipoQuarto.Suite)
                 .HasValue<QuartoLuxo>(TipoQuarto.Luxo);
-            });
-
-        base.OnModelCreating(modelBuilder);
-        modelBuilder
-        .Entity<QuartoLuxo>(
-            eb => {
-                eb.Property(b => b.TemVistaParaOMar).HasColumnName("Vista").HasDefaultValue(true);
-            });
-
-        base.OnModelCreating(modelBuilder);
-        modelBuilder
-        .Entity<Suite>(
-            eb => {
-                eb.Property(b => b.Capacidade).HasColumnName("Capacidade");
-            });
 
         base.OnModelCreating(modelBuilder);
         modelBuilder
