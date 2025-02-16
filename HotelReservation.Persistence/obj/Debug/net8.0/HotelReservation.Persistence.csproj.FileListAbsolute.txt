@@ -16,3 +16,39 @@ D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservat
 D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.genruntimeconfig.cache
 D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\ref\HotelReservation.Persistence.dll
 D:\SistemaHotel\Back\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.sourcelink.json
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Persistence.deps.json
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Persistence.runtimeconfig.json
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Persistence.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Persistence.pdb
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Model.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Model.pdb
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.csproj.AssemblyReference.cache
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.AssemblyInfoInputs.cache
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.AssemblyInfo.cs
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.csproj.CoreCompileInputs.cache
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.sourcelink.json
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelRes.E75CBE4F.Up2Date
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\refint\HotelReservation.Persistence.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.pdb
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.genruntimeconfig.cache
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\ref\HotelReservation.Persistence.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Persistence.deps.json
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Persistence.runtimeconfig.json
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Persistence.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Persistence.pdb
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Model.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\bin\Debug\net8.0\HotelReservation.Model.pdb
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.csproj.AssemblyReference.cache
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.AssemblyInfoInputs.cache
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.AssemblyInfo.cs
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.csproj.CoreCompileInputs.cache
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.sourcelink.json
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelRes.E75CBE4F.Up2Date
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\refint\HotelReservation.Persistence.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.pdb
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\HotelReservation.Persistence.genruntimeconfig.cache
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Persistence\obj\Debug\net8.0\ref\HotelReservation.Persistence.dll

@@ -46,4 +46,14 @@ public abstract class Quarto
     {
         return HashCode.Combine(Id, Numero, PrecoPorNoite, Disponivel, Tipo);
     }
+
+    public bool Any()
+    {
+        throw new NotImplementedException();
+    }
+
+    public static implicit operator Quarto(List<Quarto> v)
+    {
+        throw new NotImplementedException();
+    }
 }

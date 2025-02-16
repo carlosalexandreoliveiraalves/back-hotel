@@ -10,3 +10,27 @@ D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\refint\HotelReserva
 D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.pdb
 D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\ref\HotelReservation.Model.dll
 D:\SistemaHotel\Back\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.sourcelink.json
+C:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Model\bin\Debug\net8.0\HotelReservation.Model.deps.json
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Model\bin\Debug\net8.0\HotelReservation.Model.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Model\bin\Debug\net8.0\HotelReservation.Model.pdb
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.GeneratedMSBuildEditorConfig.editorconfig
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.AssemblyInfoInputs.cache
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.AssemblyInfo.cs
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.csproj.CoreCompileInputs.cache
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.sourcelink.json
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\refint\HotelReservation.Model.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.pdb
+C:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\ref\HotelReservation.Model.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Model\bin\Debug\net8.0\HotelReservation.Model.deps.json
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Model\bin\Debug\net8.0\HotelReservation.Model.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Model\bin\Debug\net8.0\HotelReservation.Model.pdb
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.AssemblyInfoInputs.cache
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.AssemblyInfo.cs
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.csproj.CoreCompileInputs.cache
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.sourcelink.json
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\refint\HotelReservation.Model.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\HotelReservation.Model.pdb
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.Model\obj\Debug\net8.0\ref\HotelReservation.Model.dll

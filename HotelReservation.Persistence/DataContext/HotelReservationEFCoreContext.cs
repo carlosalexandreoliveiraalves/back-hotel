@@ -14,10 +14,10 @@ public class HotelReservationEFCoreContext : DbContext
         
     }
 
-    // public HotelReservationEFCoreContext()
-    // {
+    public HotelReservationEFCoreContext()
+    {
         
-    // }
+    }
 
 
      protected override void OnConfiguring(DbContextOptionsBuilder options)

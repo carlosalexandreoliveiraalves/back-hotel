@@ -58,3 +58,123 @@ d:\SistemaHotel\Back\HotelReservation.UI.WebApp\obj\Debug\net8.0\refint\HotelRes
 d:\SistemaHotel\Back\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.pdb
 D:\SistemaHotel\Back\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.genruntimeconfig.cache
 D:\SistemaHotel\Back\HotelReservation.UI.WebApp\obj\Debug\net8.0\ref\HotelReservation.UI.WebApp.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\appsettings.Development.json
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\appsettings.json
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.UI.WebApp.exe
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.UI.WebApp.deps.json
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.UI.WebApp.runtimeconfig.json
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.UI.WebApp.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.UI.WebApp.pdb
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Google.Protobuf.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\MySql.Data.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\MySqlConnector.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\ZstdSharp.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.Model.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.Persistence.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.Model.pdb
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.Persistence.pdb
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.csproj.AssemblyReference.cache
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.AssemblyInfoInputs.cache
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.AssemblyInfo.cs
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.csproj.CoreCompileInputs.cache
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.MvcApplicationPartsAssemblyInfo.cs
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.MvcApplicationPartsAssemblyInfo.cache
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.sourcelink.json
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\staticwebassets.build.json
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\staticwebassets.development.json
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.HotelReservation.UI.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.HotelReservation.UI.WebApp.props
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HotelReservation.UI.WebApp.props
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HotelReservation.UI.WebApp.props
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\scopedcss\bundle\HotelReservation.UI.WebApp.styles.css
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelRes.6CA7F703.Up2Date
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\refint\HotelReservation.UI.WebApp.dll
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.pdb
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.genruntimeconfig.cache
+c:\Área de Trabalho\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\ref\HotelReservation.UI.WebApp.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\appsettings.json
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.UI.WebApp.exe
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.UI.WebApp.deps.json
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.UI.WebApp.runtimeconfig.json
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.UI.WebApp.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.UI.WebApp.pdb
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Google.Protobuf.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\MySql.Data.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\MySqlConnector.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\ZstdSharp.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.Model.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.Persistence.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.Model.pdb
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\bin\Debug\net8.0\HotelReservation.Persistence.pdb
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.csproj.AssemblyReference.cache
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.AssemblyInfoInputs.cache
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.AssemblyInfo.cs
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.csproj.CoreCompileInputs.cache
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.sourcelink.json
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.HotelReservation.UI.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.HotelReservation.UI.WebApp.props
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HotelReservation.UI.WebApp.props
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HotelReservation.UI.WebApp.props
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\scopedcss\bundle\HotelReservation.UI.WebApp.styles.css
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelRes.6CA7F703.Up2Date
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\refint\HotelReservation.UI.WebApp.dll
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.pdb
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\HotelReservation.UI.WebApp.genruntimeconfig.cache
+c:\Users\carlo\projetos\SistemaHotel\back-hotel\HotelReservation.UI.WebApp\obj\Debug\net8.0\ref\HotelReservation.UI.WebApp.dll

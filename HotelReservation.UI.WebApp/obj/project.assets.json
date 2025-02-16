@@ -2821,19 +2821,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Carlos Alexandre\\.nuget\\packages\\": {}
+    "C:\\Users\\carlo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\SistemaHotel\\Back\\HotelReservation.UI.WebApp\\HotelReservation.UI.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\projetos\\SistemaHotel\\back-hotel\\HotelReservation.UI.WebApp\\HotelReservation.UI.WebApp.csproj",
       "projectName": "HotelReservation.UI.WebApp",
-      "projectPath": "d:\\SistemaHotel\\Back\\HotelReservation.UI.WebApp\\HotelReservation.UI.WebApp.csproj",
-      "packagesPath": "C:\\Users\\Carlos Alexandre\\.nuget\\packages\\",
-      "outputPath": "d:\\SistemaHotel\\Back\\HotelReservation.UI.WebApp\\obj\\",
+      "projectPath": "C:\\Users\\carlo\\projetos\\SistemaHotel\\back-hotel\\HotelReservation.UI.WebApp\\HotelReservation.UI.WebApp.csproj",
+      "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carlo\\projetos\\SistemaHotel\\back-hotel\\HotelReservation.UI.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Carlos Alexandre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2845,11 +2845,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "d:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj": {
-              "projectPath": "d:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj"
+            "C:\\Users\\carlo\\projetos\\SistemaHotel\\back-hotel\\HotelReservation.Model\\HotelReservation.Model.csproj": {
+              "projectPath": "C:\\Users\\carlo\\projetos\\SistemaHotel\\back-hotel\\HotelReservation.Model\\HotelReservation.Model.csproj"
             },
-            "D:\\SistemaHotel\\Back\\HotelReservation.Persistence\\HotelReservation.Persistence.csproj": {
-              "projectPath": "D:\\SistemaHotel\\Back\\HotelReservation.Persistence\\HotelReservation.Persistence.csproj"
+            "C:\\Users\\carlo\\projetos\\SistemaHotel\\back-hotel\\HotelReservation.Persistence\\HotelReservation.Persistence.csproj": {
+              "projectPath": "C:\\Users\\carlo\\projetos\\SistemaHotel\\back-hotel\\HotelReservation.Persistence\\HotelReservation.Persistence.csproj"
             }
           }
         }
@@ -2901,7 +2901,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

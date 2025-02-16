@@ -3619,19 +3619,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Carlos Alexandre\\.nuget\\packages\\": {}
+    "C:\\Users\\carlo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SistemaHotel\\Back\\HotelReservation.Persistence\\HotelReservation.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\projetos\\SistemaHotel\\back-hotel\\HotelReservation.Persistence\\HotelReservation.Persistence.csproj",
       "projectName": "HotelReservation.Persistence",
-      "projectPath": "D:\\SistemaHotel\\Back\\HotelReservation.Persistence\\HotelReservation.Persistence.csproj",
-      "packagesPath": "C:\\Users\\Carlos Alexandre\\.nuget\\packages\\",
-      "outputPath": "D:\\SistemaHotel\\Back\\HotelReservation.Persistence\\obj\\",
+      "projectPath": "C:\\Users\\carlo\\projetos\\SistemaHotel\\back-hotel\\HotelReservation.Persistence\\HotelReservation.Persistence.csproj",
+      "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carlo\\projetos\\SistemaHotel\\back-hotel\\HotelReservation.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Carlos Alexandre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -3643,8 +3643,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "d:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj": {
-              "projectPath": "d:\\SistemaHotel\\Back\\HotelReservation.Model\\HotelReservation.Model.csproj"
+            "C:\\Users\\carlo\\projetos\\SistemaHotel\\back-hotel\\HotelReservation.Model\\HotelReservation.Model.csproj": {
+              "projectPath": "C:\\Users\\carlo\\projetos\\SistemaHotel\\back-hotel\\HotelReservation.Model\\HotelReservation.Model.csproj"
             }
           }
         }
@@ -3705,7 +3705,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
